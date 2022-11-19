@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: primaryColor,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: const ListScreen(title: 'Pascual Calderón - 7 "A"'),
+      home: const ListScreen(title: 'Pascual Calderón - 7"A"'),
     );
   }
 }
